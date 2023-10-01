@@ -1,3 +1,3 @@
-# Twatter - Twitter but worse!
+# Twatter - Twitter but *slightly* worse!
 
 Link: https://twatter-top.vercel.app/
